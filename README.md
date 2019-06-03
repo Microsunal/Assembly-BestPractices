@@ -1,2 +1,2 @@
 # Assembly-BestPractices
-Exampl of use the best practices to coding in assembly for a pulser changing state led 
+Ejemplo de uso de buenas practicas en assembly implementando un cambio de estado para un led con un boton o pulsador 
